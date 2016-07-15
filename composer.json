@@ -1,0 +1,35 @@
+{
+  "name": "mrgrain/bedrock-autoloader",
+  "description": "Autobahn and Composer compatible version of the Bedrock Autoloader for mu-plugins.",
+  "type": "wordpress-muplugin",
+  "extra": {
+    "installer-name": "bedrock-autoloader"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Scott Walkinshaw",
+      "email": "scott.walkinshaw@gmail.com",
+      "homepage": "https://github.com/swalkinshaw"
+    },
+    {
+      "name": "Ben Word",
+      "email": "ben@benword.com",
+      "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Marley Mokomoko-Young",
+      "email": "marley@prefer.co.nz"
+    },
+    {
+      "name": "Moritz Kornher",
+      "email": "mail@moritzkornher.de"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.3",
+    "composer/installers": "^1.1",
+    "mrgrain/autobahn-config": "~1.1.1"
+  }
+}
