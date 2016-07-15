@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Bedrock Autoloader
- * Plugin URI: https://github.com/roots/bedrock/
- * Description: An autoloader that enables standard plugins to be required just like must-use plugins. The autoloaded plugins are included during mu-plugin loading. An asterisk (*) next to the name of the plugin designates the plugins that have been autoloaded.
+ * Plugin URI: https://github.com/autobahn-cloud/bedrock-autoloader
+ * Description: An autoloader that enables standard plugins to be required just like must-use plugins. The autoloaded plugins are included during mu-plugin loading.
  * Version: 1.0.0
- * Author: Roots
- * Author URI: https://roots.io/
+ * Author: Autobahn
+ * Author URI: https://github.com/mrgrain/autobahn
  * License: MIT License
  */
 
